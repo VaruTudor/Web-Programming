@@ -1,0 +1,34 @@
+<h6>Rebuilding Assignment7 (using Angular)</h6>
+
+<div class="container-fluid">
+  <form #userForm="ngForm" novalidate (ngSubmit)="onLogin()">
+
+    <div class="form-group">
+      <label> Username
+        <input
+          type="text"
+          class="form-control"
+          #model="ngModel"
+          [class.is-invalid]="model.invalid && model.touched"
+          [(ngModel)]="userModel.username"
+          name="username"
+          placeholder="Enter username..."
+          required
+          ngModel> </label>
+      <div
+        [class.d-none]="model.valid || model.untouched"
+        class="text-danger"> Username is required </div>
+    </div>
+
+    <button class="btn btn-dark" type="submit"
+            [disabled]="userForm.form.invalid"> Login </button>
+
+    <span [innerHTML]="loginResponse" class="alert-info" style="margin-left: 5px"></span>
+
+  </form>
+
+  <add-feature></add-feature><hr>
+  <delete-feature></delete-feature><hr>
+  <update-feature></update-feature><hr>
+  <browse-feature></browse-feature>
+</div>

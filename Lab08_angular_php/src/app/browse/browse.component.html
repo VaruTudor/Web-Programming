@@ -1,0 +1,13 @@
+<form #bookForm="ngForm" novalidate (ngSubmit)="onBrowse()">
+  <button class="btn btn-dark" type="submit"
+          [disabled]="bookForm.form.invalid"> Browse </button>
+
+  <div [innerHTML]="browseResponse" class="alert-info" style="margin-left: 5px"></div>
+</form>
+
+<form #bookForm="ngForm" novalidate (ngSubmit)="onGroupedBrowse()"><hr>
+  <button class="btn btn-dark" type="submit"
+          [disabled]="bookForm.form.invalid"> Browse Grouped</button>
+
+  <div [innerHTML]="browseGroupedResponse" class="alert-info" style="margin-left: 5px"></div>
+</form>

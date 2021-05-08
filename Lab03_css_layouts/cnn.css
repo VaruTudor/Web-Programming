@@ -1,0 +1,82 @@
+main{
+    margin-left: 210px;
+    margin-right: 230px;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 9%;
+    padding-right: 10%;
+    overflow: hidden;
+    background-color: black;
+}
+
+p{
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+/*user-defined classes*/
+
+.li-navbar{
+    float: left;
+    display: block;
+    color: #e6e6e6;
+    text-align: center;
+    padding: 12px 9px;
+    text-decoration: none;
+    font-family: "Helvetica Neue";
+    font-size: 15px;
+}
+
+.first-row{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.first-column{
+    float: left;
+    height: 259px; /*same as the picture*/
+    width: 460px;
+    position: absolute;
+}
+
+.second-column{
+    float: left;
+    height: 169px; /*same as the picture*/
+    width: 300px;
+    right: 29.1%;
+    position: absolute;
+}
+
+.third-column{
+    float: left;
+    height: 169px; /*same as the picture*/
+    width: 300px;
+    right: 0%;
+    position: absolute;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.font-size-30{font-size: 30px;}
+
+.font-size-20{font-size: 20px;}
+
+.font-size-15{font-size: 16px;}
+
+.font-size-15{font-size: 15px;}
+
+.font-size-14{font-size: 14px;}
+
+.font-family-verdana{font-family: Verdana;}
+
+.font-family-arial{font-family: Arial;}
+
+.font-family-helvetica{font-family: "Helvetica Neue";}
+
+.font-color-red{color: #cc0000;}

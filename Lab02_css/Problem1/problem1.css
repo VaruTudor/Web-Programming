@@ -1,0 +1,79 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+#set-center{
+    position: center;
+}
+
+#outer-circle{
+    background-color: darkcyan;
+    border-radius: 50%;
+    height: 600px;
+    width: 600px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -300px 0 0 -300px;
+}
+
+#first-inner-circle{
+    background-color: mediumseagreen;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -250px 0 0 -250px;
+}
+
+#second-inner-circle{
+    background-color: darkturquoise;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -200px;
+}
+
+#third-inner-circle{
+    background-color: aqua;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+}
+
+#fourth-inner-circle{
+    background-color: aquamarine;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -100px;
+}
+
+#fifth-inner-circle{
+    background-color: paleturquoise;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+}

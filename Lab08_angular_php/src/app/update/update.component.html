@@ -1,0 +1,22 @@
+<form #bookForm="ngForm" novalidate (ngSubmit)="onUpdate()">
+
+  <div class="form-group">
+    <label> Id
+      <input type="number" class="form-control" name="id" placeholder="Enter id..." required
+             #model="ngModel"
+             [(ngModel)]="bookModel.id"
+             ngModel> </label>
+
+    <label> Comment
+      <input type="text" class="form-control" name="comment" placeholder="Enter comment..." required
+             #model="ngModel"
+             [(ngModel)]="bookModel.comment"
+             ngModel> </label>
+  </div>
+
+  <button class="btn btn-dark" type="submit"
+          [disabled]="bookForm.form.invalid"> Update </button>
+
+  <span [innerHTML]="updateResponse" class="alert-info" style="margin-left: 5px"></span>
+
+</form>

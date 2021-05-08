@@ -1,0 +1,16 @@
+<form #bookIdForm="ngForm" novalidate (ngSubmit)="onDelete()">
+
+  <div class="form-group">
+    <label> Id
+      <input type="number" class="form-control" name="author" placeholder="Enter id..." required
+             #model="ngModel"
+             [(ngModel)]="bookId"
+             ngModel> </label>
+  </div>
+
+  <button class="btn btn-dark" type="submit"
+          [disabled]="bookIdForm.form.invalid"> Delete </button>
+
+  <span [innerHTML]="deleteResponse" class="alert-info" style="margin-left: 5px"></span>
+
+</form>
