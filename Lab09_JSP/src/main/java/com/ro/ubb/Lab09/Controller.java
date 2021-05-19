@@ -42,7 +42,7 @@ public class Controller extends HttpServlet {
     // handle http GET request
     public void doGet(HttpServletRequest req, HttpServletResponse servletResponse) throws IOException {
         currentSession = req.getSession();
-        userId = (int) currentSession.getAttribute("userId");
+        userId = (Integer) currentSession.getAttribute("userId");
 
         servletResponse.setContentType("text/html");
         DatabaseConnector db = new DatabaseConnector();

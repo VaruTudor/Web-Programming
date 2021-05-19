@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0df07fc9-bc74-43e6-8fb7-6eea137b3130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/.idea/.idea.Lab10_ASP_NET/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/.idea/.idea.Lab10_ASP_NET/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/.idea/.idea.Lab10_ASP_NET/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/.idea/.idea.Lab10_ASP_NET/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Data/BooksContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Migrations/20210517145833_InitialCreate.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Migrations/20210517145833_InitialCreate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Migrations/BooksContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Models/Book.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Models/Configurator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Models/PaginatedList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Models/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Account/Login.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Create.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Delete.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Delete.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Details.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Edit.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/Pages/Books/Index.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Humanizer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Lab10_FILES.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/Npgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Composition.AttributedModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Composition.Convention.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Composition.Hosting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Composition.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Composition.TypedParts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ref/Lab10_FILES.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Lab10_FILES.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Account/Login.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Books/Create.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Books/Delete.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Books/Details.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Books/Edit.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Books/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/ref/Lab10_FILES.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/staticwebassets/Lab10_FILES.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Debug/net5.0/staticwebassets/Lab10_FILES.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Lab10_FILES.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Lab10_FILES.csproj.codegeneration.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Lab10_FILES.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Lab10_FILES.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/Lab10_FILES.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10_ASP_NET/Lab10_ASP_NET/Lab10_FILES/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d29d00f-0f4a-40bc-9418-179e627ae829.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d29d00f-0f4a-40bc-9418-179e627ae829/storage_v2/_src_/database/Puzzle.Xrwtjw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d29d00f-0f4a-40bc-9418-179e627ae829/storage_v2/_src_/database/Puzzle.Xrwtjw/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d29d00f-0f4a-40bc-9418-179e627ae829/storage_v2/_src_/database/Puzzle.Xrwtjw/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d29d00f-0f4a-40bc-9418-179e627ae829/storage_v2/_src_/database/Puzzle.Xrwtjw/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ro/ubb/Lab09/DatabaseConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ro/ubb/Lab09/DatabaseConnector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Lab09-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Lab09-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ro/ubb/Lab09/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ro/ubb/Lab09/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1slCtwdOSJwNKi5uQKmi9yG89Fu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.451" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.451" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dusername=postgres -Dpassword=Pestele1" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.ro.ubb : Lab09_JSP-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9729d7ad-8807-4112-a4ea-8a318681cf14" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57307" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.ro.ubb : Lab09_JSP-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0df07fc9-bc74-43e6-8fb7-6eea137b3130" name="Default Changelist" comment="" />
+      <created>1621438014039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621438014039</updated>
+      <workItem from="1621438016105" duration="1622000" />
+      <workItem from="1621447484222" duration="51000" />
+      <workItem from="1621447582184" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
